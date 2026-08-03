@@ -12,4 +12,3 @@ function Invetation(name:string, venue?:string):string{
     return`name of the function ${name} and the venue is at ${venue}`;
 }
 console.log(Invetation("vag"));
-console.log("Hello World");
